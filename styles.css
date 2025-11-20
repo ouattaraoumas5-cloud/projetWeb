@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+/* Mission collab 1 */
+h1 {
+  color: red;   /* titre principal en rouge */
+}
+
+h2 {
+  color: green; /* titre h2 en vert */
+}
+
+/* Liste numérotée déjà en <ol>, on améliore juste l'affichage */
+ol {
+  margin-left: 20px;
+}
